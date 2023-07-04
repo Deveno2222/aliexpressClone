@@ -25,7 +25,7 @@ This is a clone of the popular e-commerce platform, AliExpress. It is a web appl
 
 ## Installation and Setup
 
-1. Clone the repository: `git clone https://github.com/your-username/aliexpressclone.git`
+1. Clone the repository: `git clone https://github.com/Deveno2222/aliexpressclone.git`
 2. Navigate to the project directory: `cd aliexpressclone`
 3. Install the dependencies: `npm install`
 4. Create a `.env` file in the root directory and provide the necessary environment variables (database connection URL, Stripe API keys, etc.).
